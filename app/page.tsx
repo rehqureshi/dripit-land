@@ -85,12 +85,12 @@ const features = [
 
 const stats = [
   { value: "Early", label: "Access" },
-  { value: "10+", label: "Designer Partnerships" },
+  { value: "100+", label: "Designer Partnerships" },
   { value: "∞", label: "Curated Collections" },
 ];
 
 const socialLinks = [
-  { label: "Instagram", href: "#" },
+  { label: "", href: "#" },
 ];
 
 export default function HomePage() {
